@@ -14,5 +14,5 @@
   };
 
   var getNum = function (char) {
-    
+    var start = 'A'.charCodeAt(0) - 1;
   };
