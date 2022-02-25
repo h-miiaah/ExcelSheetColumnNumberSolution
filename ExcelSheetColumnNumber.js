@@ -22,6 +22,7 @@
   /*
 
   - Start by initializing a variable called res to 0.
+  - Then loop through the characters in the column title string.
   
 
   */
