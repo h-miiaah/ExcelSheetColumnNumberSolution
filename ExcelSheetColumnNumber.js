@@ -17,3 +17,10 @@
     var start = 'A'.charCodeAt(0) - 1;
     return char.charCodeAt(0) - start;
   };
+
+
+  /*
+
+  
+
+  */
