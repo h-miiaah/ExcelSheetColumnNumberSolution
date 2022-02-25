@@ -24,6 +24,7 @@
   - Start by initializing a variable called res to 0.
   - Then loop through the characters in the column title string.
   - For each character, we get the number of the character by subtracting the ASCII value of ‘A’ from the character’s ASCII value.
+  - Then multiply the number by the power of 26 raised to the index of the character.
   
 
   */
