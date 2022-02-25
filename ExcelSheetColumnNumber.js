@@ -12,3 +12,7 @@
       }
       return res;
   };
+
+  var getNum = function (char) {
+    
+  };
