@@ -21,6 +21,7 @@
 
   /*
 
+  - Start by initializing a variable called res to 0.
   
 
   */
