@@ -10,4 +10,5 @@
         num = getNum(columnTitle[len - 1 - i]);
         res += Math.pow(26, i) * num;
       }
+      return res;
   };
